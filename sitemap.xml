@@ -91,24 +91,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://www.eliteqd.cn/2023/01/14/2023-usa/</loc>
-    
-    <lastmod>2025-07-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.eliteqd.cn/2023/01/14/2023-intersec/</loc>
-    
-    <lastmod>2025-07-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://www.eliteqd.cn/</loc>
@@ -134,13 +116,6 @@
   
   <url>
     <loc>https://www.eliteqd.cn/tags/USA/</loc>
-    <lastmod>2025-09-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.eliteqd.cn/tags/</loc>
     <lastmod>2025-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
