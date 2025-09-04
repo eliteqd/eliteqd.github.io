@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /css/
+Disallow: /avatar/
+Disallow: /scripts/
+Disallow: /font/
+Disallow: /lib/
+Allow: /
+Allow: /product/
+Allow: /certificate/
+Allow: /about/
+Allow: /contact/
+Sitemap: https://eliteqd.cn/sitemap.xml,https://eliteqd.cn/baidusitemap.xml
